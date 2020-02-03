@@ -17,6 +17,11 @@
         -   taipei_city.csv : 臺北市
         -   other_county.csv : 非台北市 - 包含新北，基隆宜蘭和金門
 
+# ToDo List
+
+-   加入各地方衛生所資訊
+-   列出 52 沒有特約藥局的偏鄉和他們的衛生所
+
 # Google My Map
 
 -   [全國健保特約藥局](https://www.google.com/maps/d/u/0/edit?mid=1xRqZsMAVY8cBEhmL2WC4koVstbca7Z8N&ll=24.00932072661157%2C119.71143862203735&z=8)
